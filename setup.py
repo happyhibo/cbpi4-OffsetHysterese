@@ -5,7 +5,7 @@ setup(name='OffsetHysterese',
       description='CraftBeerPi4 Plugin with two temp offset areas',
       author='HappyHibo',
       author_email='',
-      url='',
+      url='https://github.com/happyhibo/cbpi4-OffsetHysterese',
       include_package_data=True,
       package_data={
         # If any package contains *.txt or *.rst files, include them:
