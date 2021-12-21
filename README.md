@@ -13,8 +13,8 @@ Temperatur-Steuerungs-Plugin mit zwei tempereaturbereich abhängigen Offsets.
 
 ## Add plugin to CBPi4
 
-- sudo cbpi add cbpi4-OffsetHysterese
+- sudo cbpi add OffsetHysterese
 
 ## Remove plugin from CBPI4
 
-- sudo cbpi remove cbpi4-OffsetHysterese
+- sudo cbpi remove OffsetHysterese
