@@ -21,4 +21,4 @@ Temperatur-Steuerungs-Plugin mit zwei tempereaturbereich abhängigen Offsets.
 
 ## after Install restart the CBPi
 
-- systemctl restart craftbeerpi.service
+- sudo systemctl restart craftbeerpi.service
