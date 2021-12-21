@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='OffsetHysterese',
+setup(name='cbpi4-OffsetHysterese',
       version='0.0.1',
       description='CraftBeerPi4 Plugin with two temp offset areas',
       author='HappyHibo',
@@ -10,6 +10,6 @@ setup(name='OffsetHysterese',
       package_data={
         # If any package contains *.txt or *.rst files, include them:
       '': ['*.txt', '*.rst', '*.yaml'],
-      'OffsetHysterese': ['*','*.txt', '*.rst', '*.yaml']},
+      'cbpi4-OffsetHysterese': ['*','*.txt', '*.rst', '*.yaml']},
       packages=['cbpi4-OffsetHysterese'],
      )
