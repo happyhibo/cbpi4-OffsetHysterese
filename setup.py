@@ -10,6 +10,6 @@ setup(name='OffsetHysterese',
       package_data={
         # If any package contains *.txt or *.rst files, include them:
       '': ['*.txt', '*.rst', '*.yaml'],
-      'OffsetTempHysterese': ['*','*.txt', '*.rst', '*.yaml']},
-      packages=['OffsetTempHysterese'],
+      'OffsetHysterese': ['*','*.txt', '*.rst', '*.yaml']},
+      packages=['OffsetHysterese'],
      )
