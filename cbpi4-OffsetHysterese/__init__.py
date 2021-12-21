@@ -129,4 +129,4 @@ def setup(cbpi):
     :return: 
     '''
 
-    cbpi.plugin.register("cbpi4-OffsetHysterese", HH_Hysteresis)
+    cbpi.plugin.register("OffsetHysterese", HH_Hysteresis)
