@@ -1,7 +1,7 @@
 
 # craftbeerpi4 plugin OffsetHysterese
 
-...
+Temperatur-Steuerungs-Plugin mit zwei tempereaturbereich abhängigen Offsets.
 
 ## Installation
 
