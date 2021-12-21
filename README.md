@@ -5,11 +5,11 @@
 
 ## Installation
 
-- sudo pip3 install https://github.com/
+- sudo pip3 install https://github.com/happyhibo/cbpi4-OffsetHysterese/archive/refs/heads/main.zip
 
 ## Update
 
-- sudo pip3 install --upgrade https://github.com/
+- sudo pip3 install --upgrade https://github.com/happyhibo/cbpi4-OffsetHysterese/archive/refs/heads/main.zip
 
 ## Add plugin to CBPi4
 
