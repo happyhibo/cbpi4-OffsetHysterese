@@ -11,5 +11,5 @@ setup(name='OffsetHysterese',
         # If any package contains *.txt or *.rst files, include them:
       '': ['*.txt', '*.rst', '*.yaml'],
       'OffsetHysterese': ['*','*.txt', '*.rst', '*.yaml']},
-      packages=['OffsetHysterese'],
+      packages=['cbpi4-OffsetHysterese'],
      )
