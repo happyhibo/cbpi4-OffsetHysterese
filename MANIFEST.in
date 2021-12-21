@@ -1,1 +1,2 @@
 include cbpi4-OffsetHysterese/config.yaml
+recursive-include cbpi4-OffsetHysterese/static *
