@@ -18,3 +18,7 @@ Temperatur-Steuerungs-Plugin mit zwei tempereaturbereich abhängigen Offsets.
 ## Remove plugin from CBPI4
 
 - sudo cbpi remove OffsetHysterese
+
+## after Install restart the CBPi
+
+- systemctl restart craftbeerpi.service
